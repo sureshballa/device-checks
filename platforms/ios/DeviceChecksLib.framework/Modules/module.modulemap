@@ -1,0 +1,6 @@
+framework module DeviceChecksLib {
+  umbrella header "DeviceChecksLib.h"
+
+  export *
+  module * { export * }
+}
