@@ -1,4 +1,4 @@
-module.exports.initiaize = function(var byPass){
+module.exports.initiaize = function(byPass){
 
 }
 
